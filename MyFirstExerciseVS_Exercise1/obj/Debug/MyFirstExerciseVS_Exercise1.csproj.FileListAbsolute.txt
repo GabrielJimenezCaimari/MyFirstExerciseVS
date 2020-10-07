@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\MyFirstExerciseVS\MyFirstExerciseVS_Exercise1\bin\Debug\MyFirstExerciseVS_Exercise1.exe.config
+C:\Users\gabri\source\repos\MyFirstExerciseVS\MyFirstExerciseVS_Exercise1\bin\Debug\MyFirstExerciseVS_Exercise1.exe
+C:\Users\gabri\source\repos\MyFirstExerciseVS\MyFirstExerciseVS_Exercise1\bin\Debug\MyFirstExerciseVS_Exercise1.pdb
+C:\Users\gabri\source\repos\MyFirstExerciseVS\MyFirstExerciseVS_Exercise1\obj\Debug\MyFirstExerciseVS_Exercise1.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\MyFirstExerciseVS\MyFirstExerciseVS_Exercise1\obj\Debug\MyFirstExerciseVS_Exercise1.Form1.resources
+C:\Users\gabri\source\repos\MyFirstExerciseVS\MyFirstExerciseVS_Exercise1\obj\Debug\MyFirstExerciseVS_Exercise1.Properties.Resources.resources
+C:\Users\gabri\source\repos\MyFirstExerciseVS\MyFirstExerciseVS_Exercise1\obj\Debug\MyFirstExerciseVS_Exercise1.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\MyFirstExerciseVS\MyFirstExerciseVS_Exercise1\obj\Debug\MyFirstExerciseVS_Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\MyFirstExerciseVS\MyFirstExerciseVS_Exercise1\obj\Debug\MyFirstExerciseVS_Exercise1.exe
+C:\Users\gabri\source\repos\MyFirstExerciseVS\MyFirstExerciseVS_Exercise1\obj\Debug\MyFirstExerciseVS_Exercise1.pdb
